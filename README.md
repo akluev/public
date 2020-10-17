@@ -1,2 +1,2 @@
-# public
-This is my public repository on github ( mostly Python)
+# python
+This is my public python repository on github 
